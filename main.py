@@ -7,7 +7,7 @@ def main():
     y = 5
 
     result = calculate_sum(x, y)
-    print("Қосынды:", result)
+    print("Қосынды:", result
 
 
 if __name__ == "__main__":
